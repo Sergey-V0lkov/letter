@@ -2,26 +2,30 @@
 
 Скачиваем архив с githab
 
-![image](https://github.com/user-attachments/assets/190c721f-9680-4d82-a82b-b227a97aee73)
+![Screenshot_1](https://github.com/user-attachments/assets/c9e5e512-da08-49c5-8659-c76a665aac20)
+
 
  
 ## Шаг 2
 
 Разархивируем 
 
-![image](https://github.com/user-attachments/assets/63543e55-f690-471b-81c7-a2bd8f6ca31a)
+![Screenshot_2](https://github.com/user-attachments/assets/3cb088e1-bc87-4cd4-8260-c523edb7052c)
+
 
 ## Шаг 3
 
 В папке с проектом находим файл index.html и нажимаем на него 2 раза 
 
-![image](https://github.com/user-attachments/assets/25565daf-5b4e-4448-8298-a9677aedab54)
+
+![Screenshot_3](https://github.com/user-attachments/assets/b8e3caa4-e4ca-458f-ad5b-fd75e832a099)
 
  
 ## Шаг 4
 
-Готово, в браузере откроется проект Austera
+Готово, в браузере откроется проект Letter
 
-![image](https://github.com/user-attachments/assets/0f207984-8677-4225-b528-5917f19a172a)
+![Screenshot_4](https://github.com/user-attachments/assets/bf97b062-9cea-4ac0-b3c5-8b606c93ddbf)
+
 
 
